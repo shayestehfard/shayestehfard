@@ -6,8 +6,8 @@ Apart from research, I enjoy sharing my knowledge with others and learning from 
 
 
 - [📫] (sh.kimia124@gmail.com)
-- [[Google Scholar]([https://github.com/shayestehfard/shayestehfard/blob/main/LinkedIn_logo_initials.png]](https://github.com/shayestehfard/shayestehfard/blob/main/google-scholar4372.jpg))](https://scholar.google.com/citations?user=KDDHIEIAAAAJ&hl=en)
-- Linkedin: https://www.linkedin.com/in/kimia-shayestehfard-5814a775/
+- [![Google Scholar](https://github.com/shayestehfard/shayestehfard/blob/main/LinkedIn_logo_initials.png)](https://scholar.google.com/citations?user=KDDHIEIAAAAJ&hl=en)
+- [Linkedin](https://www.linkedin.com/in/kimia-shayestehfard-5814a775/)
 
 
 
