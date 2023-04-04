@@ -5,9 +5,10 @@ My research interests include machine learning, graph mining, and optimization. 
 Apart from research, I enjoy sharing my knowledge with others and learning from the community. Please feel free to reach out to me if you have any questions or want to collaborate on a project.
 
 
-- 📫 Email: sh.kimia124@gmail.com
-- [Publications](https://scholar.google.com/citations?user=KDDHIEIAAAAJ&hl=en)
+- [📫] (sh.kimia124@gmail.com)
+- [![Google Scholar logo]([https://github.com/shayestehfard/shayestehfard/blob/main/LinkedIn_logo_initials.png](https://github.com/shayestehfard/shayestehfard/blob/main/google-scholar4372.jpg))](https://scholar.google.com/citations?user=KDDHIEIAAAAJ&hl=en)
 - Linkedin: https://www.linkedin.com/in/kimia-shayestehfard-5814a775/
+
 
 
 
