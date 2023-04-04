@@ -6,8 +6,8 @@ Apart from research, I enjoy sharing my knowledge with others and learning from 
 
 
 - [📫](sh.kimia124@gmail.com)
-- <div style="display: flex; align-items: center;">
-  <img src="https://github.com/shayestehfard/shayestehfard/blob/main/google-scholar4372.jpg" alt="Logo" width="80" height="80">
+- <div style="display: flex; align-items: left;">
+  <img src="https://github.com/shayestehfard/shayestehfard/blob/main/google-scholar4372.jpg" alt="Logo" width="40" height="40">
   <h1 style="margin-left: 20px;">Google Scholar Profile </h1>
 </div>
 -  [Google Scholar Profile](https://scholar.google.com/citations?user=KDDHIEIAAAAJ&hl=en)
