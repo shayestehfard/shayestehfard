@@ -9,7 +9,7 @@ Apart from research, I enjoy sharing my knowledge with others and learning from 
 - <p align="center">
   <img src="[logo.png](https://github.com/shayestehfard/shayestehfard/blob/main/google-scholar4372.jpg)" height="80">
   <br>
-  This text will be displayed next to the logo
+ google scholar logo
 </p>
 
 -  [Google Scholar Profile](https://scholar.google.com/citations?user=KDDHIEIAAAAJ&hl=en)
