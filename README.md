@@ -7,10 +7,11 @@ Apart from research, I enjoy sharing my knowledge with others and learning from 
 
 - [📫](sh.kimia124@gmail.com)
 - <p align="center">
-  <img src="[logo.png](https://github.com/shayestehfard/shayestehfard/blob/main/google-scholar4372.jpg)" height="80">
-  <br>
- google scholar logo
+  <img width="200" height="200" src="https://github.com/shayestehfard/shayestehfard/blob/main/google-scholar4372.jpg">
 </p>
+
+# This text will be displayed next to the logo
+
 
 -  [Google Scholar Profile](https://scholar.google.com/citations?user=KDDHIEIAAAAJ&hl=en)
 - [Linkedin](https://www.linkedin.com/in/kimia-shayestehfard-5814a775/)
