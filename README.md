@@ -7,8 +7,8 @@ Apart from research, I enjoy sharing my knowledge with others and learning from 
 
 - [📫](sh.kimia124@gmail.com)
 <ul style="list-style-type: none; padding: 0;">
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="[](https://github.com/shayestehfard/shayestehfard/blob/main/google-scholar4372.jpg)" alt="Logo" width="80" height="80" style="margin-right: 20px; vertical-align: middle;">
+  <li style="display: flex; align-items: center; margin-bottom: 5px;">
+    <img src="https://github.com/shayestehfard/shayestehfard/blob/main/google-scholar4372.jpg" alt="Logo" width="80" height="80" style="margin-right: 20px; vertical-align: middle;">
     <span style="vertical-align: middle;">Your text here</span>
   </li>
 </ul>
