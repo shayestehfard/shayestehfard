@@ -13,7 +13,7 @@ Apart from research, I enjoy sharing my knowledge with others and learning from 
 </ul>
 -->
 
-- [📫](sh.kimia124@gmail.com)
+- [📫 Email](sh.kimia124@gmail.com)
 - [Google Scholar Profile](https://scholar.google.com/citations?user=KDDHIEIAAAAJ&hl=en)
 - [Linkedin](https://www.linkedin.com/in/kimia-shayestehfard-5814a775/)
 
